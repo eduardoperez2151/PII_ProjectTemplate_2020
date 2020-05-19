@@ -1,0 +1,6 @@
+{
+    "coverage-gutters.showLineCoverage": true,
+    "dotnet-test-explorer.testArguments": "--collect:\"XPlat Code Coverage\" /p:CollectCoverage=true /p:CoverletOutputFormat=lcov /p:CoverletOutput=./lcov.info",
+    "dotnet-test-explorer.testProjectPath": "test/*",
+    "dotnet-test-explorer.showCodeLens": false
+}
